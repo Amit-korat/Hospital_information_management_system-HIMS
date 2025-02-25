@@ -4,7 +4,10 @@ This Hospital Information Management System website was created using PHP, Boots
 
 For creating a Database in Xammp send me a request to below Google Drive link:
 👇👇👇👇👇👇👇👇👇👇
+
 Price: ₹99/- (Contact: 9081373973)
+
+
 https://drive.google.com/file/d/1Wyn7iDrUPLGwWRAwWZ6IKqxow-R13Hmb/view?usp=sharing
 
 ![Screenshot 2023-08-23 at 11 13 35 AM](https://github.com/Amit-korat/Hospital_information_management_system-HIMS/assets/84698174/7a5466c7-92af-40e4-84a1-b7d344f0f755)
